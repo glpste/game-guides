@@ -10,6 +10,7 @@ Looking for: party-based, real-time (RTwP ok), fantasy, top-down/isometric, PC
 |------|---------|------|-------|-------|
 | **Icewind Dale EE** | Top pick | Isometric | 6 custom | Purest dungeon-crawl party feel |
 | **Pillars of Eternity 1/2** | Top pick | Isometric | Custom + companions | Modern polish, deep systems |
+| **Dragon Age: Origins** | Strong | Isometric + 3D chase | Hero + 3 | Rich companions, tactical combat, high-fantasy |
 | **Drakensang: The Dark Eye** | Strong | 3D chase (flexible) | Full party | Dark Eye rules, rich fantasy |
 | **NWN2: Enhanced Edition** | Good | Flexible (top-down mode) | 4 (hero + 3) | D&D depth, better party control than NWN1 |
 | **Tyranny** | Good | Isometric | Companions | Shorter, unique villain premise |
@@ -18,6 +19,7 @@ Looking for: party-based, real-time (RTwP ok), fantasy, top-down/isometric, PC
 | **NWN: Enhanced Edition** | Weak fit | 3D chase | Hero + 1-2 henchmen | Solo-hero focused, [details](rpg/neverwinter_nights.md) |
 
 **Deep-dives:**
+- [Dragon Age: Origins](rpg/dragon_age_origins.md) — fit analysis, DLC guide, mods
 - [NWN:EE Fit Analysis](rpg/neverwinter_nights.md) — why it doesn't quite match
 - [SpellForce](rpg/spellforce.md) — RPG/RTS hybrid, to research
 - [Dungeon Siege-likes](rpg/dungeon_siege_fans.md) — games for DS fans, to research
