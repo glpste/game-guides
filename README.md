@@ -4,17 +4,22 @@
     geilepaste's game guides
 </h1>
 
-This repository contains guides and resources for various games that I enjoy.  
- 
+This repository contains guides and resources for various games that I enjoy.
+
 ### PLEASE NOTE:
 All resources in this repo are shamelessly generated using whatever my preferred LLM for the task was, so take everything with a grain of salt and use common sense 😘
 
-## Games:
-* [Magic: The Gathering](/mtg/)
-  * [Sealed Tournament Guide](/mtg/sealed_guide.md)
-* [Megabonk](/megabonk/)
-* [No Rest for the Wicked](/norftw/)
-* [Path of Exile 2](/poe2/)
+## Games
 
-## Backlog:
-* [RPG Backlog](/zzz_backlog/) — party-based RTwP fantasy RPGs to check out
+### ARPGs
+- [Path of Exile 2](games/arpg/path-of-exile-2/) — sorcerer build
+- [No Rest for the Wicked](games/arpg/no-rest-for-the-wicked/) — crafting guide, bfire mage build
+
+### Card Games
+- [Magic: The Gathering](games/card-games/magic-the-gathering/) — sealed guide, set cheatsheets
+
+### Roguelike
+- [Megabonk](games/roguelike/megabonk/) — weapon cheatsheets
+
+## Backlog
+- [RPG Backlog](backlog/) — party-based RTwP fantasy RPGs to check out
