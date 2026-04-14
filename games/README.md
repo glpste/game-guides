@@ -9,5 +9,8 @@ Active game guides organized by genre.
 ## Card Games
 - [Magic: The Gathering](card-games/magic-the-gathering/) — sealed guide, set cheatsheets
 
+## Open World Survival Craft
+- [Enshrouded](open-world-survival-craft/enshrouded/) — savegames
+
 ## Roguelike
 - [Megabonk](roguelike/megabonk/) — weapon cheatsheets

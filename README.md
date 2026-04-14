@@ -18,6 +18,9 @@ All resources in this repo are shamelessly generated using whatever my preferred
 ### Card Games
 - [Magic: The Gathering](games/card-games/magic-the-gathering/) — sealed guide, set cheatsheets
 
+### Open World Survival Craft
+- [Enshrouded](games/open-world-survival-craft/enshrouded/) — savegames
+
 ### Roguelike
 - [Megabonk](games/roguelike/megabonk/) — weapon cheatsheets
 
