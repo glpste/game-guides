@@ -12,4 +12,9 @@ All resources in this repo are shamelessly generated using whatever my preferred
 ## Games:
 * [Magic: The Gathering](/mtg/)
   * [Sealed Tournament Guide](/mtg/sealed_guide.md)
-* [Megabok](/megabonk/)
+* [Megabonk](/megabonk/)
+* [No Rest for the Wicked](/norftw/)
+* [Path of Exile 2](/poe2/)
+
+## Backlog:
+* [RPG Backlog](/zzz_backlog/) — party-based RTwP fantasy RPGs to check out
