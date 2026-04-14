@@ -25,4 +25,4 @@ Titan Quest, Grim Dawn, Path of Exile, Sacred series
 ## See also
 
 - [SpellForce series](spellforce.md) — RPG/RTS hybrid, party + army
-- [NWN:EE analysis](neverwinter_nights.md) — why it's a weak fit
+- [NWN:EE analysis](neverwinter-nights.md) — why it's a weak fit

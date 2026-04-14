@@ -84,5 +84,5 @@
 ## See also
 
 - [RPG backlog overview](../README.md)
-- [Full recommendations table](rpg_ideas.md)
-- [Dungeon Siege fan picks](dungeon_siege_fans.md) — DA:O listed as a strong match
+- [Full recommendations table](recommendations.md)
+- [Dungeon Siege fan picks](dungeon-siege-fans.md) — DA:O listed as a strong match

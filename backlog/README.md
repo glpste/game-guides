@@ -16,10 +16,10 @@ Looking for: party-based, real-time (RTwP ok), fantasy, top-down/isometric, PC
 | **Tyranny** | Good | Isometric | Companions | Shorter, unique villain premise |
 | **Black Geyser** | Niche | Isometric | Small party | Indie, darker fantasy, greed mechanics |
 | **BG: Dark Alliance 1/2** | OK | Isometric | Hero + companions | More action-oriented, co-op |
-| **NWN: Enhanced Edition** | Weak fit | 3D chase | Hero + 1-2 henchmen | Solo-hero focused, [details](rpg/neverwinter_nights.md) |
+| **NWN: Enhanced Edition** | Weak fit | 3D chase | Hero + 1-2 henchmen | Solo-hero focused, [details](rpg/neverwinter-nights.md) |
 
 **Deep-dives:**
-- [Dragon Age: Origins](rpg/dragon_age_origins.md) — fit analysis, DLC guide, mods
-- [NWN:EE Fit Analysis](rpg/neverwinter_nights.md) — why it doesn't quite match
+- [Dragon Age: Origins](rpg/dragon-age-origins.md) — fit analysis, DLC guide, mods
+- [NWN:EE Fit Analysis](rpg/neverwinter-nights.md) — why it doesn't quite match
 - [SpellForce](rpg/spellforce.md) — RPG/RTS hybrid, to research
-- [Dungeon Siege-likes](rpg/dungeon_siege_fans.md) — games for DS fans, to research
+- [Dungeon Siege-likes](rpg/dungeon-siege-fans.md) — games for DS fans, to research
